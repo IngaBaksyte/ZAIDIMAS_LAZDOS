@@ -1,0 +1,30 @@
+Žaidėjų vardai: Lukas ir Matas
+
+1 ŽAIDIMAS
+
+Lazdelių pasirinktas skaičius yra 12.
+Žaidimą pradeda Matas.
+Matas paima 2 lazdeles. Lieka 10
+Lukas paima 3 lazdeles. Lieka 7
+Matas paima 1 lazdelę. Lieka 6
+Lukas paima 2 lazdeles. Lieka 4
+Matas paima 3 lazdeles. Lieka 1
+Lukas paima 1 lazdelę. Lieka 0
+
+Žaidimą laimėjo Matas.
+
+2 ŽAIDIMAS
+
+Lazdelių pasirinktas skaičius yra 9.
+Žaidimą pradeda Lukas.
+Lukas paima 2 lazdeles. Lieka 7
+Matas paima 1 lazdelę. Lieka 6
+Lukas paima 3 lazdeles. Lieka 3
+Matas paima 2 lazdeles. Lieka 1
+Lukas paima 1 lazdelę. Lieka 0
+
+Žaidimą laimėjo Matas.
+
+
+Į užklausą „Ar žaisite dar“ pasirinko „Ne“.
+Žaidimą žaidė 2 kartą(us).
